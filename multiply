@@ -1,4 +1,0 @@
-void multiply(int a , int b)
-{
-  int mul = a*b;
-}
