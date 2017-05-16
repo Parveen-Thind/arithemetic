@@ -1,5 +1,0 @@
-void subtract(int a , int b)
-{
-  int dif = a-b;
-  cout<<"diff"<<dif;
-}
